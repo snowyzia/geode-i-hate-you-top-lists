@@ -1,6 +1,6 @@
-# I hate you top lists!
+# I hate you Top Lists!
 
-Extremely simple mod that replaces the Lists button in the Creator Layer with your lists!
+Extremely simple mod that replaces the lists button in the Creator Layer with your lists!
 
 ## Why?
 - i do NOT care about the top lists
