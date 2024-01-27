@@ -5,5 +5,6 @@
 	"id": "izzy.i_hate_you_top_lists",
 	"name": "I hate you Top Lists!",
 	"developer": "izzy",
-	"description": "Makes the Top Lists button redirect you directly to your own lists!"
+	"description": "Makes the Top Lists button redirect you directly to your own lists!",
+	"repository": "https://github.com/snowyzia/geode-i-hate-you-top-lists"
 }
